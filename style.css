@@ -115,3 +115,25 @@ h2 {
     text-align: center;
 }
 
+.third-section {
+    background-color: #e5e7eb;
+    margin-top: 150px;
+    padding: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h3 {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+#author {
+    font-weight: bolder;
+    font-size: 26px;
+    padding-left: 500px;
+}
